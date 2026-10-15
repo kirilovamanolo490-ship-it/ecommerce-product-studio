@@ -1,0 +1,11 @@
+{
+  "name": "yft-design",
+  "repository": "https://github.com/dromara/yft-design",
+  "commit": "f1328edcd07373267bc372bab19be466c7482fc3",
+  "archive_url": "https://codeload.github.com/dromara/yft-design/tar.gz/f1328edcd07373267bc372bab19be466c7482fc3",
+  "archive_sha256": "2d29edc486f70a987faf324ceb8372184ff9e4d87ce5f12ad668f40148c7f1f4",
+  "license": "MIT",
+  "license_file": "LICENSE",
+  "source_head_record": "github/sources.json (yft-design.source_head)",
+  "note": "Pinned upstream archive digest is verified before extraction. Local changes are applied from apps/editor-yft/overrides."
+}

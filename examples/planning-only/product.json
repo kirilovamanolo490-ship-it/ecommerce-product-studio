@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "name": "仅用于流程演示的占位示意",
+  "target": {
+    "platform": null,
+    "site": null,
+    "locale": "zh-CN"
+  },
+  "sources": [
+    {
+      "id": "src-placeholder",
+      "path": "input/placeholder.png",
+      "role": "schema_demo_illustration",
+      "sha256": "fe3cb4a8502d1b7acd8c96c8196c7e1dfd1053bd2774bebdf23e6ad6ea902609"
+    },
+    {
+      "id": "src-note",
+      "path": "input/demo-notes.txt",
+      "role": "demo_explanation",
+      "sha256": "99e64149522503e343bfee0816cf251c03ce68cfe44022a7d368f4720f5ac819"
+    }
+  ],
+  "identity_lock": [
+    "这是自制方格示意，不代表任何商品"
+  ],
+  "claims": [
+    {
+      "id": "demo-only",
+      "text": "仅用于数据结构和编辑操作演示",
+      "status": "supported",
+      "source_id": "src-note",
+      "locator": "第1行"
+    }
+  ]
+}

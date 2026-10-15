@@ -1,0 +1,34 @@
+# Publish only the reusable workflow. Local products and research remain private.
+/*
+!/.gitignore
+!/README.md
+!/AGENTS.md
+!/.agents/
+!/docs/
+!/scripts/
+!/examples/
+!/products/
+!/apps/
+
+/products/*
+!/products/README.md
+/apps/*
+!/apps/editor-yft/
+/apps/editor-yft/*
+!/apps/editor-yft/README.md
+!/apps/editor-yft/README.upstream.md
+!/apps/editor-yft/LOCAL-NOTES.md
+!/apps/editor-yft/LICENSE
+!/apps/editor-yft/UPSTREAM.json
+!/apps/editor-yft/overrides/
+
+# Generated files and local configuration are never part of the core release.
+.DS_Store
+__pycache__/
+*.py[cod]
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+*.log

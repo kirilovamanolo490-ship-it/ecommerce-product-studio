@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "stage": "planning_only",
+  "generation": "not_completed",
+  "editor_roundtrip": "not_completed",
+  "platform_profile": "not_verified",
+  "note": "结构演示通过不代表满足真实商品输入要求。real_photo 是枚举示例，不证明该来源为照片。"
+}
