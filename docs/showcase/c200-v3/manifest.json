@@ -1,0 +1,257 @@
+{
+  "case": "Tapo C200 V1 product visual workflow",
+  "revision": "production-v3",
+  "produced_on": "2026-10-14",
+  "published_showcase_on": "2026-10-15",
+  "status": "actual_project_outputs_design_review_pending",
+  "main_count": 9,
+  "detail_count": 9,
+  "product_page": "https://www.tp-link.com/us/home-networking/cloud-camera/tapo-c200/v1/",
+  "visual_method": "Real product references, AI-generated visual assets, editable text/graphics composed in yft/Fabric",
+  "files": [
+    {
+      "file": "main/M01.png",
+      "source": "exports/main/01-c200-v3-M01.png",
+      "sha256": "599d6ac7574ade121f65ef3c24ea36eb5b5ab762597b56f1c7b884899af3258a",
+      "width": 1620,
+      "height": 1620,
+      "bytes": 800358,
+      "operation": "byte-for-byte copy of existing export"
+    },
+    {
+      "file": "main/M02.png",
+      "source": "exports/main/02-c200-v3-M02.png",
+      "sha256": "d9f404d4a340f7472519eb631f5fb25812c2bab18416e3fe9f777e601627ebd4",
+      "width": 1620,
+      "height": 1620,
+      "bytes": 2795377,
+      "operation": "byte-for-byte copy of existing export"
+    },
+    {
+      "file": "main/M03.png",
+      "source": "exports/main/03-c200-v3-M03.png",
+      "sha256": "3ea1ca8c4c13d74bf34ed4f725622288df531e4c2ac91cb14613dd97c885b58a",
+      "width": 1620,
+      "height": 1620,
+      "bytes": 3277849,
+      "operation": "byte-for-byte copy of existing export"
+    },
+    {
+      "file": "main/M04.png",
+      "source": "exports/main/04-c200-v3-M04.png",
+      "sha256": "d4556989ea202fbc4933a95613e8ef802e33345e7150c61c0571e65fe71306d1",
+      "width": 1620,
+      "height": 1620,
+      "bytes": 3789627,
+      "operation": "byte-for-byte copy of existing export"
+    },
+    {
+      "file": "main/M05.png",
+      "source": "exports/main/05-c200-v3-M05.png",
+      "sha256": "5e88dcb794dbca001b4c133ce80dc29c2df549a07636f70a96d9e10f5ed110fe",
+      "width": 1620,
+      "height": 1620,
+      "bytes": 3251197,
+      "operation": "byte-for-byte copy of existing export"
+    },
+    {
+      "file": "main/M06.png",
+      "source": "exports/main/06-c200-v3-M06.png",
+      "sha256": "7ff165a20ab3288b178e77a2a704d3e1c0154557b5f475c88cd23a72dada5b5e",
+      "width": 1620,
+      "height": 1620,
+      "bytes": 3516768,
+      "operation": "byte-for-byte copy of existing export"
+    },
+    {
+      "file": "main/M07.png",
+      "source": "exports/main/07-c200-v3-M07.png",
+      "sha256": "5133c40d1a2eb86faf4ddcfe0e8931bae7ae6832195bcc7855b7bb7c4f04b669",
+      "width": 1620,
+      "height": 1620,
+      "bytes": 3581682,
+      "operation": "byte-for-byte copy of existing export"
+    },
+    {
+      "file": "main/M08.png",
+      "source": "exports/main/08-c200-v3-M08.png",
+      "sha256": "3b9f6e601b1a70a8737565863e2b4a3a2b3d145e66e96c431d5ab5051353f623",
+      "width": 1620,
+      "height": 1620,
+      "bytes": 162530,
+      "operation": "byte-for-byte copy of existing export"
+    },
+    {
+      "file": "main/M09.png",
+      "source": "exports/main/09-c200-v3-M09.png",
+      "sha256": "c8c8ac4148f3116ac1d24ef9ada2fc4e107c9b974c550e61f3b994be1a08a376",
+      "width": 1620,
+      "height": 1620,
+      "bytes": 509230,
+      "operation": "byte-for-byte copy of existing export"
+    },
+    {
+      "file": "detail/D01.png",
+      "source": "exports/detail/10-c200-v3-D01.png",
+      "sha256": "f04300dcf66167209e14f60229b346108caa0e34346205cd5424aa42fa0bda54",
+      "width": 1620,
+      "height": 2160,
+      "bytes": 4093716,
+      "operation": "byte-for-byte copy of existing export"
+    },
+    {
+      "file": "detail/D02.png",
+      "source": "exports/detail/11-c200-v3-D02.png",
+      "sha256": "5fabc7d9a4a89ed34558c846b938db418faabb663361da8f87318387934d6f4c",
+      "width": 1620,
+      "height": 1860,
+      "bytes": 702411,
+      "operation": "byte-for-byte copy of existing export"
+    },
+    {
+      "file": "detail/D03.png",
+      "source": "exports/detail/12-c200-v3-D03.png",
+      "sha256": "f1a479ea10a200e64d60e10aa81a7c504bf04fe8120e56fb05e43951400edf8f",
+      "width": 1620,
+      "height": 2160,
+      "bytes": 3462527,
+      "operation": "byte-for-byte copy of existing export"
+    },
+    {
+      "file": "detail/D04.png",
+      "source": "exports/detail/13-c200-v3-D04.png",
+      "sha256": "4113e8d5a4ba22f1a0b8b1a96e7f7c193ce9d9cb3621063cf6a95fb4ff0afeb9",
+      "width": 1620,
+      "height": 2160,
+      "bytes": 3348618,
+      "operation": "byte-for-byte copy of existing export"
+    },
+    {
+      "file": "detail/D05.png",
+      "source": "exports/detail/14-c200-v3-D05.png",
+      "sha256": "1b7b09cc7c1053fe1c5a664dc30fc1fb8b3b90ed0a88559fb15679202a03a314",
+      "width": 1620,
+      "height": 2160,
+      "bytes": 3515489,
+      "operation": "byte-for-byte copy of existing export"
+    },
+    {
+      "file": "detail/D06.png",
+      "source": "exports/detail/15-c200-v3-D06.png",
+      "sha256": "d8561c6854a31940fdb93eee38f10bd3984f3c14418ca1e22d054ce957bbad8e",
+      "width": 1620,
+      "height": 2160,
+      "bytes": 320595,
+      "operation": "byte-for-byte copy of existing export"
+    },
+    {
+      "file": "detail/D07.png",
+      "source": "exports/detail/16-c200-v3-D07.png",
+      "sha256": "edd6f65d1f10b95f5f43768ee5223df408cf0b7bf5d7eab522fa82fb318f14a0",
+      "width": 1620,
+      "height": 2160,
+      "bytes": 2981989,
+      "operation": "byte-for-byte copy of existing export"
+    },
+    {
+      "file": "detail/D08.png",
+      "source": "exports/detail/17-c200-v3-D08.png",
+      "sha256": "3b600262c96109b25e3cc77f16e2698f10e92dbb8fe62eb253259ef2564d5385",
+      "width": 1620,
+      "height": 2160,
+      "bytes": 549838,
+      "operation": "byte-for-byte copy of existing export"
+    },
+    {
+      "file": "detail/D09.png",
+      "source": "exports/detail/18-c200-v3-D09.png",
+      "sha256": "f95c8fb862b121bc9f0566a380b749045794c39bb6499342e1f2a73bd08b972b",
+      "width": 1620,
+      "height": 2160,
+      "bytes": 410524,
+      "operation": "byte-for-byte copy of existing export"
+    },
+    {
+      "file": "main-overview.png",
+      "source": "qa/overview-main.png",
+      "sha256": "2499ae9de0772b8907a6ccf03ef3c03badd1f3a793e232a601a878f6ccb12f7c",
+      "width": 1620,
+      "height": 1678,
+      "bytes": 1949032,
+      "operation": "byte-for-byte copy of existing QA image"
+    },
+    {
+      "file": "detail-overview.png",
+      "source": "qa/overview-detail.png",
+      "sha256": "4b1b707037e481d8a80ccf3dcf00d04738ef9bbaeef4b6a9c21ded3b4be97823",
+      "width": 1620,
+      "height": 2186,
+      "bytes": 2076495,
+      "operation": "byte-for-byte copy of existing QA image"
+    },
+    {
+      "file": "editor-open.png",
+      "source": "qa/editor-roundtrip-open.png",
+      "sha256": "d846c93a70c777532323cb3d7589ef0b02f6b0fe958dec313e7dbbdb84871998",
+      "width": 1600,
+      "height": 1100,
+      "bytes": 888084,
+      "operation": "byte-for-byte copy of existing QA image"
+    },
+    {
+      "file": "editor-reopened.png",
+      "source": "qa/editor-roundtrip-reopened.png",
+      "sha256": "f113a8d2c23eae4f2e37972c5153be1fd936429ad01d0aaf321b5c676e19fd4b",
+      "width": 1600,
+      "height": 1100,
+      "bytes": 385914,
+      "operation": "byte-for-byte copy of existing QA image"
+    }
+  ],
+  "editor_evidence": {
+    "recorded_at": "2026-10-14T06:26:55.693Z",
+    "master_sha256": "26f6bb279d8e19edb2103350a911d282bf6c08020e6fc0ee2335af8e1cae0e87",
+    "page_count": 18,
+    "checks": [
+      {
+        "step": "open-project",
+        "passed": true
+      },
+      {
+        "step": "edit-headline",
+        "passed": true
+      },
+      {
+        "step": "switch-page-persistence",
+        "passed": true
+      },
+      {
+        "step": "replace-image",
+        "passed": true
+      },
+      {
+        "step": "save-whole-project",
+        "passed": true
+      },
+      {
+        "step": "close-reopen",
+        "passed": true
+      },
+      {
+        "step": "reopened-ui-png-export",
+        "passed": true
+      }
+    ],
+    "clean_title": "云台转动，灵活查看",
+    "test_title": "云台可转动，App 调整视角",
+    "test_image_change": "M02 room visual replaced with official product photo in a QA copy",
+    "passed": true,
+    "scope": "Historical recorded roundtrip for this exact master; not a new browser test or commercial acceptance"
+  },
+  "notes": [
+    "Showcase images retain their original pixels; no visual assets generated for this documentation update.",
+    "AI-generated scenes are illustrations, not camera footage or user testimonials.",
+    "Brand materials are referenced for a workflow case; no manufacturer endorsement or blanket asset reuse license is claimed.",
+    "Full editable master, manuals, prompts and original input directory remain local."
+  ]
+}

@@ -4,6 +4,7 @@
 
 | 文档 | 解决的问题 |
 |---|---|
+| [C200 实际效果图册](showcase/c200-v3/README.md) | 查看全部主图、详情模块与真实编辑器截图 |
 | [quickstart.md](quickstart.md) | 安装什么、从哪个目录执行、怎样初始化和启动编辑器 |
 | [workflow.md](workflow.md) | 每个环节的输入、动作、输出与完成条件 |
 | [data-contract.md](data-contract.md) | 四份任务 JSON 的字段、引用关系和校验范围 |

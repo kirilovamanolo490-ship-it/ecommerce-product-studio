@@ -4,6 +4,12 @@
 
 上游介绍保存在 [README.upstream.md](README.upstream.md)；本地验证记录和已知边界见 [LOCAL-NOTES.md](LOCAL-NOTES.md)。上游 MIT 许可证原文见 [LICENSE](LICENSE)，请在复制、修改和分发时一并保留。
 
+## 真实工程效果
+
+以下是本项目 C200 第三版的 18 页商品工程在编辑器中打开的真实截图。对应完整主图、详情及保存重开测试画面见 [C200 案例图册](../../docs/showcase/c200-v3/README.md)。
+
+[![实际18页商品工程](../../docs/showcase/c200-v3/editor-open.png)](../../docs/showcase/c200-v3/README.md#实际可编辑画面)
+
 ## 重建与启动
 
 需要 Python 3.9 或更高版本（仅标准库）和网络访问。setup 会从 GitHub codeload 下载固定上游归档、校验 SHA-256、安全解压并应用本地覆盖文件；它拒绝覆盖已存在的目标目录，不安装 npm 依赖，也不运行上游脚本。
